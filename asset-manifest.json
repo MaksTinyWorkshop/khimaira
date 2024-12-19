@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simulkhimaira/static/css/main.0f742f40.css",
+    "main.js": "/simulkhimaira/static/js/main.bbb2f21f.js",
+    "static/media/sep1gris.png": "/simulkhimaira/static/media/sep1gris.760163359825a2efcdc0.png",
+    "static/media/Kalam-Bold.ttf": "/simulkhimaira/static/media/Kalam-Bold.c4671477e81c3c51ffc0.ttf",
+    "static/media/Kalam-Light.ttf": "/simulkhimaira/static/media/Kalam-Light.26d8dba039c5c77b1ac3.ttf",
+    "static/media/Kalam-Regular.ttf": "/simulkhimaira/static/media/Kalam-Regular.831aaad03890ba2d7417.ttf",
+    "static/media/Sép3_bois.png": "/simulkhimaira/static/media/Sép3_bois.98f45bd107c0d2ec8fcb.png",
+    "static/media/sep4gris.png": "/simulkhimaira/static/media/sep4gris.c217e42f3b6a50d6b23a.png",
+    "static/media/Bois_no_bg.png": "/simulkhimaira/static/media/Bois_no_bg.4657bb3c325f8bd96be2.png",
+    "static/media/Sép3_gris.png": "/simulkhimaira/static/media/Sép3_gris.733b92586515d9b7f958.png",
+    "static/media/Sép2_bois.png": "/simulkhimaira/static/media/Sép2_bois.9ae5880a3efe288f7130.png",
+    "index.html": "/simulkhimaira/index.html",
+    "main.0f742f40.css.map": "/simulkhimaira/static/css/main.0f742f40.css.map",
+    "main.bbb2f21f.js.map": "/simulkhimaira/static/js/main.bbb2f21f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f742f40.css",
+    "static/js/main.bbb2f21f.js"
+  ]
+}
