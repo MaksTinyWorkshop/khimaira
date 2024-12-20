@@ -24,12 +24,12 @@ const Footer = () => {
           </a>
         </div>
         <div className="rights">
-          <p>Khimaira © 2023 - Tous droits réservés </p>
+          <p>Khimaira © 2024 - Tous droits réservés </p>
           <div className="rights-box">
             <NavLink to="/legals">
               <p>Mentions légales</p>
             </NavLink>
-            <p>Création & développement - Maxime Fleury </p>
+            <p>Création & développement - DiNoDev </p>
           </div>
         </div>
       </div>
