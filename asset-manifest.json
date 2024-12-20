@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3435e745.css",
-    "main.js": "/static/js/main.bbb2f21f.js",
+    "main.js": "/static/js/main.bcac36dc.js",
     "static/media/sep1gris.png": "/static/media/sep1gris.760163359825a2efcdc0.png",
     "static/media/Kalam-Bold.ttf": "/static/media/Kalam-Bold.c4671477e81c3c51ffc0.ttf",
     "static/media/Kalam-Light.ttf": "/static/media/Kalam-Light.26d8dba039c5c77b1ac3.ttf",
@@ -13,10 +13,10 @@
     "static/media/Sép2_bois.png": "/static/media/Sép2_bois.9ae5880a3efe288f7130.png",
     "index.html": "/index.html",
     "main.3435e745.css.map": "/static/css/main.3435e745.css.map",
-    "main.bbb2f21f.js.map": "/static/js/main.bbb2f21f.js.map"
+    "main.bcac36dc.js.map": "/static/js/main.bcac36dc.js.map"
   },
   "entrypoints": [
     "static/css/main.3435e745.css",
-    "static/js/main.bbb2f21f.js"
+    "static/js/main.bcac36dc.js"
   ]
 }
